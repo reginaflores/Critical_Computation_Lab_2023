@@ -17,18 +17,23 @@
 
 ## Code:
 
-Object Example:
-https://editor.p5js.org/reginaflores/sketches/1O4uGBetM
+The collision code from class:
+https://editor.p5js.org/reginaflores/sketches/kQQK9n2Je
 
-Ball Class:
-https://editor.p5js.org/reginaflores/sketches/Qr5Fld7kB
+Switch Statement Code:
+https://editor.p5js.org/reginaflores/sketches/qd1AwDzrI
 
-Ball Class -- student made:
-https://editor.p5js.org/reginaflores/sketches/N-bS-1zUq
+p5 play Code:
+https://editor.p5js.org/reginaflores/sketches/UUNS1MRXZ
 
-Cloud Class:
-https://editor.p5js.org/reginaflores/sketches/osIS_fu2w
+Collision Explained Code:
+https://editor.p5js.org/reginaflores/sketches/6Mvk71P3s
 
-Json
-https://editor.p5js.org/reginaflores/sketches/V5UcuBAEG 
+Basic Game Template (Note: 2D collision library used):
+https://editor.p5js.org/reginaflores/sketches/3RiZeKFtn
 
+
+## Libraries:
+
+* Collision Library: https://github.com/bmoren/p5.collide2D
+* P5 Play Library: https://p5play.org/learn/
