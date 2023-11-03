@@ -15,17 +15,18 @@
 	
 ## Code:
 
-Nested For Loops:
-https://editor.p5js.org/reginaflores/sketches/wf3d_1W2j
 
-Modulo:
-https://editor.p5js.org/reginaflores/sketches/o5-GFwO2X
+Simple Array Example:
+https://editor.p5js.org/reginaflores/sketches/ccoQZFGIV
 
-Using Noise (or random) to make patterns:
-https://editor.p5js.org/reginaflores/sketches/Z1Gl-WZkj
+Simple Array Example 2:
+https://editor.p5js.org/reginaflores/sketches/ZNlfT---4
 
-Sol Lewitt Example:
-https://editor.p5js.org/reginaflores/sketches/0eoDcT3IF
+Sol Lewitt: 
+https://editor.p5js.org/reginaflores/sketches/9v5sxT4Qg
 
-Agnes Martin Example:
-https://editor.p5js.org/reginaflores/sketches/I8SBGBLex
+Images: 
+https://editor.p5js.org/reginaflores/sketches/bNUD2aqHM
+
+Beginning Particles:
+https://editor.p5js.org/reginaflores/sketches/AXOw0WRRP
