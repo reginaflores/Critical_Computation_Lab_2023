@@ -7,3 +7,15 @@
 
 * Inheritance
 * Sprites Moving
+
+## Code:
+
+This is collision between 2 separate classes:
+https://editor.p5js.org/reginaflores/sketches/iVhSkBNsn
+
+Dan Shiffman's sprite animation: 
+https://editor.p5js.org/reginaflores/sketches/HoVIg6WFs
+
+Addding and Removing items from an array:
+https://editor.p5js.org/reginaflores/sketches/WXLMarDhYz
+
